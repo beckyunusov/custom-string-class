@@ -1,0 +1,2 @@
+This is a custom string class without using the string library. 
+The program will count number of occurances of a given phrase up to 5 words phrases
